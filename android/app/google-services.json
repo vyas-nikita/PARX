@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523398701246",
+    "project_id": "discover-park-dev",
+    "storage_bucket": "discover-park-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523398701246:android:c224e84eaa7379225b7eef",
+        "android_client_info": {
+          "package_name": "com.parx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523398701246-ckvekualknhlcg0j2aa8mfrbe2e8vi4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD48KlXp5zLxWHm-Up8-MbsRnUM9wW7-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523398701246-ckvekualknhlcg0j2aa8mfrbe2e8vi4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
